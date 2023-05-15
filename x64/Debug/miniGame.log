@@ -1,0 +1,11 @@
+﻿  miniGame.cpp
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(16,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(92,12): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(93,8): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(101,27): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(115,46): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(119,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(119,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(126,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Lenovo\Desktop\miniGame\miniGame\miniGame.cpp(126,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  miniGame.vcxproj -> C:\Users\Lenovo\Desktop\miniGame\x64\Debug\miniGame.exe

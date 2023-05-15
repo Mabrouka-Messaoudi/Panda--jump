@@ -1,0 +1,8 @@
+﻿L'opération de génération a démarré...
+1>------ Début de la génération : Projet : miniGame, Configuration : Debug x64 ------
+1>miniGame.cpp
+1>C:\Users\21627\source\repos\miniGame\miniGame\miniGame.cpp(31,6): warning C4101: 'i' : variable locale non référencée
+1>miniGame.vcxproj -> C:\Users\21627\source\repos\miniGame\x64\Debug\miniGame.exe
+1>Génération du projet "miniGame.vcxproj" terminée.
+========== Build : 1 réussite(s), 0 échec(s), 0 à jour, 0 ignorée(s) ==========
+========= Build démarré à 11:15 PM et a pris 10,850 secondes ===========.
